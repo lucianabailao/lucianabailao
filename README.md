@@ -1,4 +1,4 @@
-### Oi sou a Luciana, estes são alguns de meus projetos. E atualmente estudo JavaScript, Springboot e Docker. 👋
+### Oi sou a Luciana, estes são alguns de meus projetos na linguagem Java. E atualmente estudo JavaScript, Springboot e Docker. 👋
 <div align="center">
   <a href="https://github.com/lucianabailao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianabailao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
